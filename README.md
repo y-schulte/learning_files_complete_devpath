@@ -1,4 +1,4 @@
-**This repo contains files for each web dev module we covered during my year of studies with Digital Career Institute in Berlin**
+**This repo contains files for each web dev module we covered during my year of studies with Digital Career Institute in Berlin (Feb 2021 to Feb 22)**
 
 **_GOAL_**
 
