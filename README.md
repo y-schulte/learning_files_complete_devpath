@@ -6,9 +6,11 @@ There are plenty resources on the web on each topic, but one stop source with ov
 
 This repo serves exactly this goal to support everyone interested with all necessary topics for that stack.
 
+---
+
 **_IN DETAIL_**
 
-Modules covered:
+**Modules covered:**
 
 **Programs & Tools:**
 
@@ -16,7 +18,7 @@ Modules covered:
 - Git/Github
 - Other crucial programs
 
-[Link to file "Programs & Tools"](https://docs.google.com/spreadsheets/d/1tndM9iiy1o2gGB_hd7u7gheVmRUElRdrSVGKRUMCRSw/edit?usp=sharing)
+[Link to file "Programs & Tools"](https://docs.google.com/spreadsheets/d/1HAE1iK47H8mBtSPO3tryUqrAs06WhHE8ygsyq0eGLms/edit?usp=sharing)
 
 **Frontend:**
 
@@ -24,7 +26,7 @@ Modules covered:
 - JavaScript
 - React, React Hooks, React Router
 
-[Link to file "Frontend: HTML/CSS"](https://docs.google.com/spreadsheets/d/1HAE1iK47H8mBtSPO3tryUqrAs06WhHE8ygsyq0eGLms/edit?usp=sharing)
+[Link to file "Frontend: HTML/CSS"](https://docs.google.com/spreadsheets/d/1tndM9iiy1o2gGB_hd7u7gheVmRUElRdrSVGKRUMCRSw/edit?usp=sharing)
 
 [Link to file "Frontend: Javascript"](https://docs.google.com/spreadsheets/d/1CK4tvyNIeF2o12-XItxQ8cJdA65Zv0HJjvdptDbYN64/edit?usp=sharing)
 
@@ -43,6 +45,8 @@ Modules covered:
 
 - Project Management
 - Agile methodology
+
+---
 
 **_EXTRA_**
 
